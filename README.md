@@ -1,2 +1,2 @@
 # machine_learning
-algorithms and methods of machine learning
+Алгоритмы и методы машинного обучения. 1 курс магистратуры, 1 семестр.
